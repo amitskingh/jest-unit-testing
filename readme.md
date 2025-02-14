@@ -8,6 +8,7 @@ npm i typescript ts-node -D
 npx tsc --init
 npm i express
 npm i @types/express @types/node
+npm i rimraf -D
 npm i jest@latest ts-jest@latest @types/jest@latest -D
 ```
 
