@@ -14,7 +14,7 @@ npm i jest@latest ts-jest@latest @types/jest@latest -D
 
 ## Configuration
 
-### jest.test.ts
+### jest.config.ts
 
 ```ts
 import type { Config } from "jest";
