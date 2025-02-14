@@ -1,4 +1,4 @@
-# Jest Unit Testing for Node.js + TypeScript
+# Jest Unit Testing with TypeScript & Node.js
 
 ## Project Setup
 
